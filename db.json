@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "2fd0",
+      "name": "Rohan",
+      "email": "rohan@gamil.com",
+      "pass": "rohan"
+    },
+    {
+      "id": "d12b",
+      "name": "admin",
+      "email": "admin@g.com",
+      "pass": "admin"
+    },
+    {
+      "id": "23cb",
+      "name": "lp",
+      "email": "lp@gm.co",
+      "pass": "123"
+    }
+  ],
+  "user-details": [
+    {
+      "id": null,
+      "name": "",
+      "age": null,
+      "disease": "",
+      "stage": "",
+      "image": ""
+    }
+  ]
+}
